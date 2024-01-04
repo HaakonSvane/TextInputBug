@@ -1,3 +1,4 @@
+import React from 'react';
 import {TextInput, SafeAreaView} from 'react-native';
 
 const textInputValue =
